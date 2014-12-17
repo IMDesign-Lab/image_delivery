@@ -5,4 +5,5 @@
 
 READMEの中身は暇を見つけてしっかりしたものをつくります．
 
+
 質問等はshimizu@salesio-sp.ac.jpまで
