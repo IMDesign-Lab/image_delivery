@@ -1,8 +1,8 @@
-﻿//==============================================
+//==============================================
 //パッケージの読み込み
 import java.text.*;
 import java.io.*;
-public class SetHostname_v2{
+public class SetHostname{
  	//==============================================
 	//ファイルに文字列を書き出す
 	public void writeln(BufferedOutputStream m_file,String str)
